@@ -1,37 +1,14 @@
-Submitter-supplied data:
+FPKM / counts:
 
-Series SOFT file
-GSE183984_family.soft
+raw/GSE183984_ASAN_RNASEQ_FPKM_ensg.csv
+raw/GSE183984_ASAN_RNASEQ_raw_counts_ensg.csv
 
-Series MINiML file
-GSE183984_family.xml
+Annotation:
 
-Series Matrix file
-GSE183984_series_matrix.txt
+raw/GSE183984_family.soft
+raw/GSE183984_family.xml
 
-Series supplementary data
-GSE183984_ASAN_RNASEQ_FPKM_ensg.csv
-GSE183984_ASAN_RNASEQ_raw_counts_ensg.csv
+raw/GSE183984_series_matrix.txt
 
-
-====================================================================================================================================
-
-NCBI-generated data?BETA
-Series RNA-seq raw counts matrix
-Raw count matrices may be suitable for input into differential expression analysis tools.
-
-GSE183984_raw_counts_GRCh38.p13_NCBI.tsv
-
-
-Series RNA-seq normalized counts matrix
-Normalized count matrices may be suitable for analyzing and visualizing gene expression abundance.
-
-GSE183984_norm_counts_FPKM_GRCh38.p13_NCBI.tsv
-GSE183984_norm_counts_TPM_GRCh38.p13_NCBI.tsv
-
-
-Human gene annotation table
-Gene annotation information is intended to be used in conjunction with raw and normalized count matrices.
-The Homo sapiens Annotation Release 109.20190905 was used for gene annotation.
-
-Human.GRCh38.p13.annot.tsv
+Human genome file:
+raw/Homo_sapiens.GRCh38.110.gtf

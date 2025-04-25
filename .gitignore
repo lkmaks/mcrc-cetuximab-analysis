@@ -3,7 +3,9 @@
 .venv/
 venv/
 data/L_*
+raw/L_*
 .idea/
+wget-log
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
