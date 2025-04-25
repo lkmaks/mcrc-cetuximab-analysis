@@ -19,6 +19,7 @@ Add to .bashrc:
 Then:
 
         pyenv install 3.12.0
+        pyenv global 3.12.0 
 
         cd YOUR_REPO_DIR
         python -m venv .venv
