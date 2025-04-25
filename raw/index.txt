@@ -1,14 +1,3 @@
-FPKM / counts:
+explore_data -- download files and generate ann.csv, log_tpm_hgvs.csv
+ann -- generate processed_ann.csv
 
-raw/GSE183984_ASAN_RNASEQ_FPKM_ensg.csv
-raw/GSE183984_ASAN_RNASEQ_raw_counts_ensg.csv
-
-Annotation:
-
-raw/GSE183984_family.soft
-raw/GSE183984_family.xml
-
-raw/GSE183984_series_matrix.txt
-
-Human genome file:
-raw/Homo_sapiens.GRCh38.110.gtf
