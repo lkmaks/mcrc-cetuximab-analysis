@@ -1,3 +1,0 @@
-explore_data -- download files and generate ann.csv, log_tpm_hgvs.csv
-ann -- generate processed_ann.csv
-

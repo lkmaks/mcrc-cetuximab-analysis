@@ -1,9 +1,10 @@
 # Custom
 
+raw/
+data/
+
 .venv/
 venv/
-data/L_*
-raw/L_*
 .idea/
 wget-log
 
