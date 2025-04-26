@@ -3,6 +3,9 @@
 raw/
 data/
 
+.pybiomart.sqlite
+
+
 .venv/
 venv/
 .idea/
