@@ -1,11 +1,9 @@
 # Custom
 
-raw/
-data/
+data/Homo_sapiens.GRCh38.113.gtf
+
 
 .pybiomart.sqlite
-
-
 .venv/
 venv/
 .idea/
