@@ -1,86 +1,86 @@
-Unnamed: 0,some_id,sample_title,tissue,time point,treatment response,patient_id
-GSM5575333,18R649_010,POST-R-001,primary tumor (colorectum),post-treatment,post-Tx non-PD,1
-GSM5575334,18R654_15,PAIR-R-001-pre,primary tumor (colorectum),pre-treatment,pre-Tx,1
-GSM5575336,18R669_01,POST-R-002,primary tumor (colorectum),post-treatment,post-Tx non-PD,2
-GSM5575337,18R670_02,PAIR-R-002,primary tumor (colorectum),,pre-Tx,2
-GSM5575339,18R674_06,PAIR-R-003,primary tumor (colorectum),pre-treatment,pre-Tx,3
-GSM5575342,18R678_010,PRE-R-001,primary tumor (colorectum),pre-treatment,pre-Tx,1
-GSM5575343,18R683_015,PAIR-R-004,primary tumor (colorectum),pre-treatment,pre-Tx,4
-GSM5575345,18R689_022,PAIR-R-005,primary tumor (colorectum),pre-treatment,pre-Tx,5
-GSM5575346,18R690_023,PAIR-R-005,primary tumor (colorectum),post-treatment,post-tx PD,5
-GSM5575347,18R694_02,POST-R-004,primary tumor (colorectum),post-treatment,post-Tx non-PD,4
-GSM5575348,18R697_05,POST-R-005,primary tumor (colorectum),post-treatment,post-Tx non-PD,5
-GSM5575349,18R699_07,PAIR-R-006,primary tumor (colorectum),pre-treatment,pre-Tx,6
-GSM5575350,18R700_08,PAIR-R-006,primary tumor (colorectum),post-treatment,post-tx PD,6
-GSM5575351,18R429_009,PRE-R-002,primary tumor (colorectum),pre-treatment,pre-Tx,2
-GSM5575356,18R298_0010,PAIR-04,primary tumor (colorectum),pre-treatment,pre-Tx,4
-GSM5575359,18R647_08,PAIR-R-008,primary tumor (colorectum),pre-treatment,pre-Tx,8
-GSM5575360,18R648_09,PAIR-R-008,primary tumor (colorectum),post-treatment,post-Tx non-PD,8
-GSM5575361,18R294_0001,PAIR-28,primary tumor (colorectum),pre-treatment,pre-Tx,28
-GSM5575363,18R295_0003,PAIR-29,primary tumor (colorectum),pre-treatment,pre-Tx,29
-GSM5575365,18R296_0008,PAIR-32,primary tumor (colorectum),pre-treatment,pre-Tx,32
-GSM5575368,18R176_0020,PRE-R-005,primary tumor (colorectum),pre-treatment,pre-Tx,5
-GSM5575369,18R178_0022,PRE-R-006,primary tumor (colorectum),pre-treatment,pre-Tx,6
-GSM5575370,18R177_0021,PRE-R-007,primary tumor (colorectum),pre-treatment,pre-Tx,7
-GSM5575371,18R299_0025,PAIR-R-012,primary tumor (colorectum),pre-treatment,pre-Tx,12
-GSM5575373,18R300_0027,PAIR-R-013,primary tumor (colorectum),pre-treatment,pre-Tx,13
-GSM5575375,18R659_020,POST-R-010,primary tumor (colorectum),post-treatment,post-Tx non-PD,10
-GSM5575376,18R661_021,POST-R-011,primary tumor (colorectum),post-treatment,post-Tx non-PD,11
-GSM5575377,18R301_0002,PRE-R-008,primary tumor (colorectum),pre-treatment,pre-Tx,8
-GSM5575378,18R302_0004,PAIR-R-014,primary tumor (colorectum),pre-treatment,pre-Tx,14
-GSM5575380,18R663_027,POST-R-012,primary tumor (colorectum),post-treatment,post-Tx non-PD,12
-GSM5575381,18R664_01,PAIR-R-015,primary tumor (colorectum),pre-treatment,pre-Tx,15
-GSM5575383,18R307_0013,PAIR-R-016,primary tumor (colorectum),pre-treatment,pre-Tx,16
-GSM5575385,18R319_0014,PAIR-61,primary tumor (colorectum),pre-treatment,pre-Tx,61
-GSM5575387,18R685_018,PRE-R-009,primary tumor (colorectum),pre-treatment,pre-Tx,9
-GSM5575388,18R642_003,PRE-R-010,primary tumor (colorectum),pre-treatment,pre-Tx,10
-GSM5575389,18R645_006,PRE-R-011,primary tumor (colorectum),pre-treatment,pre-Tx,11
-GSM5575390,18R653_014,POST-R-013,primary tumor (colorectum),post-treatment,post-tx PD,13
-GSM5575391,18R432_012,PRE-R-012,primary tumor (colorectum),pre-treatment,pre-Tx,12
-GSM5575392,18R434_014,PAIR-R-018,primary tumor (colorectum),pre-treatment,pre-Tx,18
-GSM5575394,18R460_001,PRE-R-013,primary tumor (colorectum),pre-treatment,pre-Tx,13
-GSM5575395,18R695_03,PAIR-R-019,primary tumor (colorectum),pre-treatment,pre-Tx,19
-GSM5575397,18R473_014,PRE-R-014,primary tumor (colorectum),pre-treatment,pre-Tx,14
-GSM5575398,18R443_022,PRE-R-015,primary tumor (colorectum),pre-treatment,pre-Tx,15
-GSM5575400,18R436_016,PRE-R-017,primary tumor (colorectum),pre-treatment,pre-Tx,17
-GSM5575403,18R421_001,PRE-R-020,primary tumor (colorectum),pre-treatment,pre-Tx,20
-GSM5575404,18R463_004,PRE-R-021,primary tumor (colorectum),pre-treatment,pre-Tx,21
-GSM5575405,18R472_013,PRE-R-022,primary tumor (colorectum),pre-treatment,pre-Tx,22
-GSM5575406,18R426_006,PRE-R-023,primary tumor (colorectum),pre-treatment,pre-Tx,23
-GSM5575407,18R427_007,PRE-R-024,primary tumor (colorectum),pre-treatment,pre-Tx,24
-GSM5575408,18R508_011,PRE-15,primary tumor (colorectum),pre-treatment,pre-Tx,15
-GSM5575409,18R433_013,PRE-R-026,primary tumor (colorectum),pre-treatment,pre-Tx,26
-GSM5575410,18R435_015,PRE-R-027,primary tumor (colorectum),pre-treatment,pre-Tx,27
-GSM5575411,18R437_018,PRE-R-028,primary tumor (colorectum),pre-treatment,pre-Tx,28
-GSM5575412,18R449_023,PRE-R-029,primary tumor (colorectum),pre-treatment,pre-Tx,29
-GSM5575413,18R438_019,PRE-R-030,primary tumor (colorectum),pre-treatment,pre-Tx,30
-GSM5575414,18R440_020,PRE-R-031,primary tumor (colorectum),pre-treatment,pre-Tx,31
-GSM5575415,18R456_002,PRE-R-032,primary tumor (colorectum),pre-treatment,pre-Tx,32
-GSM5575416,18R457_023,PRE-R-033,primary tumor (colorectum),pre-treatment,pre-Tx,33
-GSM5575417,18R458_025,PRE-R-034,primary tumor (colorectum),pre-treatment,pre-Tx,34
-GSM5575418,18R459_027,PRE-R-035,primary tumor (colorectum),pre-treatment,pre-Tx,35
-GSM5575419,18R461_002,PRE-R-036,primary tumor (colorectum),pre-treatment,pre-Tx,36
-GSM5575420,18R462_003,PRE-R-037,primary tumor (colorectum),pre-treatment,pre-Tx,37
-GSM5575421,18R464_005,PRE-R-038,primary tumor (colorectum),pre-treatment,pre-Tx,38
-GSM5575423,18R468_009,PRE-R-040,primary tumor (colorectum),pre-treatment,pre-Tx,40
-GSM5575424,18R469_010,PRE-R-041,primary tumor (colorectum),pre-treatment,pre-Tx,41
-GSM5575425,18R470_011,PRE-R-042,primary tumor (colorectum),pre-treatment,pre-Tx,42
-GSM5575426,18R471_012,PRE-R-043,primary tumor (colorectum),pre-treatment,pre-Tx,43
-GSM5575427,18R474_015,PRE-R-044,primary tumor (colorectum),pre-treatment,pre-Tx,44
-GSM5575428,18R475_016,PRE-R-045,primary tumor (colorectum),pre-treatment,pre-Tx,45
-GSM5575429,18R476_018,PRE-R-046,primary tumor (colorectum),pre-treatment,pre-Tx,46
-GSM5575430,18R640_001,PAIR-R-020,primary tumor (colorectum),pre-treatment,pre-Tx,20
-GSM5575432,18R701_09,PRE-R-047,primary tumor (colorectum),pre-treatment,pre-Tx,47
-GSM5575433,18R478_020,PRE-R-048,primary tumor (colorectum),pre-treatment,pre-Tx,48
-GSM5575434,18R479_021,PRE-R-049,primary tumor (colorectum),pre-treatment,pre-Tx,49
-GSM5575435,18R480_022,PRE-R-050,primary tumor (colorectum),pre-treatment,pre-Tx,50
-GSM5575436,18R702_010,POST-R-014,primary tumor (colorectum),post-treatment,post-Tx non-PD,14
-GSM5575437,18R656_018,PAIR-R-021,primary tumor (colorectum),pre-treatment,pre-Tx,21
-GSM5575438,18R657_019,PAIR-R-021,primary tumor (colorectum),post-treatment,post-tx PD,21
-GSM5575439,18R673_05,POST-R-015,primary tumor (colorectum),post-treatment,post-Tx non-PD,15
-GSM5575440,18R465_006,POST-R-016,primary tumor (colorectum),post-treatment,post-tx PD,16
-GSM5575441,18R454_027,PRE-R-051,primary tumor (colorectum),pre-treatment,pre-Tx,51
-GSM5575442,18R477_019,PRE-R-052,primary tumor (colorectum),pre-treatment,pre-Tx,52
-GSM5575443,18R507_004,PRE-10,primary tumor (colorectum),pre-treatment,pre-Tx,10
-GSM5575444,18R428_008,PRE-R-054,primary tumor (colorectum),pre-treatment,pre-Tx,54
-GSM5575445,18R705_013,PRE-R-055,primary tumor (colorectum),pre-treatment,pre-Tx,55
+Unnamed: 0,sample_id,sample_title,tissue,time point,treatment response,patient_id,gsm_id
+0,18R649_0010,POST-R-001,primary tumor (colorectum),post-treatment,post-Tx non-PD,1,0
+1,18R654_0015,PAIR-R-001-pre,primary tumor (colorectum),pre-treatment,pre-Tx,1,1
+3,18R669_0001,POST-R-002,primary tumor (colorectum),post-treatment,post-Tx non-PD,2,3
+4,18R670_0002,PAIR-R-002,primary tumor (colorectum),,pre-Tx,2,4
+6,18R674_0006,PAIR-R-003,primary tumor (colorectum),pre-treatment,pre-Tx,3,6
+9,18R678_0010,PRE-R-001,primary tumor (colorectum),pre-treatment,pre-Tx,1,9
+10,18R683_0015,PAIR-R-004,primary tumor (colorectum),pre-treatment,pre-Tx,4,10
+12,18R689_0022,PAIR-R-005,primary tumor (colorectum),pre-treatment,pre-Tx,5,12
+13,18R690_0023,PAIR-R-005,primary tumor (colorectum),post-treatment,post-tx PD,5,13
+14,18R694_0002,POST-R-004,primary tumor (colorectum),post-treatment,post-Tx non-PD,4,14
+15,18R697_0005,POST-R-005,primary tumor (colorectum),post-treatment,post-Tx non-PD,5,15
+16,18R699_0007,PAIR-R-006,primary tumor (colorectum),pre-treatment,pre-Tx,6,16
+17,18R700_0008,PAIR-R-006,primary tumor (colorectum),post-treatment,post-tx PD,6,17
+18,18R429_0009,PRE-R-002,primary tumor (colorectum),pre-treatment,pre-Tx,2,18
+23,18R298_0010,PAIR-04,primary tumor (colorectum),pre-treatment,pre-Tx,4,23
+26,18R647_0008,PAIR-R-008,primary tumor (colorectum),pre-treatment,pre-Tx,8,26
+27,18R648_0009,PAIR-R-008,primary tumor (colorectum),post-treatment,post-Tx non-PD,8,27
+28,18R294_0001,PAIR-28,primary tumor (colorectum),pre-treatment,pre-Tx,28,28
+30,18R295_0003,PAIR-29,primary tumor (colorectum),pre-treatment,pre-Tx,29,30
+32,18R296_0008,PAIR-32,primary tumor (colorectum),pre-treatment,pre-Tx,32,32
+35,18R176_0020,PRE-R-005,primary tumor (colorectum),pre-treatment,pre-Tx,5,35
+36,18R178_0022,PRE-R-006,primary tumor (colorectum),pre-treatment,pre-Tx,6,36
+37,18R177_0021,PRE-R-007,primary tumor (colorectum),pre-treatment,pre-Tx,7,37
+38,18R299_0025,PAIR-R-012,primary tumor (colorectum),pre-treatment,pre-Tx,12,38
+40,18R300_0027,PAIR-R-013,primary tumor (colorectum),pre-treatment,pre-Tx,13,40
+42,18R659_0020,POST-R-010,primary tumor (colorectum),post-treatment,post-Tx non-PD,10,42
+43,18R661_0021,POST-R-011,primary tumor (colorectum),post-treatment,post-Tx non-PD,11,43
+44,18R301_0002,PRE-R-008,primary tumor (colorectum),pre-treatment,pre-Tx,8,44
+45,18R302_0004,PAIR-R-014,primary tumor (colorectum),pre-treatment,pre-Tx,14,45
+47,18R663_0027,POST-R-012,primary tumor (colorectum),post-treatment,post-Tx non-PD,12,47
+48,18R664_0001,PAIR-R-015,primary tumor (colorectum),pre-treatment,pre-Tx,15,48
+50,18R307_0013,PAIR-R-016,primary tumor (colorectum),pre-treatment,pre-Tx,16,50
+52,18R319_0014,PAIR-61,primary tumor (colorectum),pre-treatment,pre-Tx,61,52
+54,18R685_0018,PRE-R-009,primary tumor (colorectum),pre-treatment,pre-Tx,9,54
+55,18R642_0003,PRE-R-010,primary tumor (colorectum),pre-treatment,pre-Tx,10,55
+56,18R645_0006,PRE-R-011,primary tumor (colorectum),pre-treatment,pre-Tx,11,56
+57,18R653_0014,POST-R-013,primary tumor (colorectum),post-treatment,post-tx PD,13,57
+58,18R432_0012,PRE-R-012,primary tumor (colorectum),pre-treatment,pre-Tx,12,58
+59,18R434_0014,PAIR-R-018,primary tumor (colorectum),pre-treatment,pre-Tx,18,59
+61,18R460_0001,PRE-R-013,primary tumor (colorectum),pre-treatment,pre-Tx,13,61
+62,18R695_0003,PAIR-R-019,primary tumor (colorectum),pre-treatment,pre-Tx,19,62
+64,18R473_0014,PRE-R-014,primary tumor (colorectum),pre-treatment,pre-Tx,14,64
+65,18R443_0022,PRE-R-015,primary tumor (colorectum),pre-treatment,pre-Tx,15,65
+67,18R436_0016,PRE-R-017,primary tumor (colorectum),pre-treatment,pre-Tx,17,67
+70,18R421_0001,PRE-R-020,primary tumor (colorectum),pre-treatment,pre-Tx,20,70
+71,18R463_0004,PRE-R-021,primary tumor (colorectum),pre-treatment,pre-Tx,21,71
+72,18R472_0013,PRE-R-022,primary tumor (colorectum),pre-treatment,pre-Tx,22,72
+73,18R426_0006,PRE-R-023,primary tumor (colorectum),pre-treatment,pre-Tx,23,73
+74,18R427_0007,PRE-R-024,primary tumor (colorectum),pre-treatment,pre-Tx,24,74
+75,18R508_0011,PRE-15,primary tumor (colorectum),pre-treatment,pre-Tx,15,75
+76,18R433_0013,PRE-R-026,primary tumor (colorectum),pre-treatment,pre-Tx,26,76
+77,18R435_0015,PRE-R-027,primary tumor (colorectum),pre-treatment,pre-Tx,27,77
+78,18R437_0018,PRE-R-028,primary tumor (colorectum),pre-treatment,pre-Tx,28,78
+79,18R449_0023,PRE-R-029,primary tumor (colorectum),pre-treatment,pre-Tx,29,79
+80,18R438_0019,PRE-R-030,primary tumor (colorectum),pre-treatment,pre-Tx,30,80
+81,18R440_0020,PRE-R-031,primary tumor (colorectum),pre-treatment,pre-Tx,31,81
+82,18R456_0002,PRE-R-032,primary tumor (colorectum),pre-treatment,pre-Tx,32,82
+83,18R457_0023,PRE-R-033,primary tumor (colorectum),pre-treatment,pre-Tx,33,83
+84,18R458_0025,PRE-R-034,primary tumor (colorectum),pre-treatment,pre-Tx,34,84
+85,18R459_0027,PRE-R-035,primary tumor (colorectum),pre-treatment,pre-Tx,35,85
+86,18R461_0002,PRE-R-036,primary tumor (colorectum),pre-treatment,pre-Tx,36,86
+87,18R462_0003,PRE-R-037,primary tumor (colorectum),pre-treatment,pre-Tx,37,87
+88,18R464_0005,PRE-R-038,primary tumor (colorectum),pre-treatment,pre-Tx,38,88
+90,18R468_0009,PRE-R-040,primary tumor (colorectum),pre-treatment,pre-Tx,40,90
+91,18R469_0010,PRE-R-041,primary tumor (colorectum),pre-treatment,pre-Tx,41,91
+92,18R470_0011,PRE-R-042,primary tumor (colorectum),pre-treatment,pre-Tx,42,92
+93,18R471_0012,PRE-R-043,primary tumor (colorectum),pre-treatment,pre-Tx,43,93
+94,18R474_0015,PRE-R-044,primary tumor (colorectum),pre-treatment,pre-Tx,44,94
+95,18R475_0016,PRE-R-045,primary tumor (colorectum),pre-treatment,pre-Tx,45,95
+96,18R476_0018,PRE-R-046,primary tumor (colorectum),pre-treatment,pre-Tx,46,96
+97,18R640_0001,PAIR-R-020,primary tumor (colorectum),pre-treatment,pre-Tx,20,97
+99,18R701_0009,PRE-R-047,primary tumor (colorectum),pre-treatment,pre-Tx,47,99
+100,18R478_0020,PRE-R-048,primary tumor (colorectum),pre-treatment,pre-Tx,48,100
+101,18R479_0021,PRE-R-049,primary tumor (colorectum),pre-treatment,pre-Tx,49,101
+102,18R480_0022,PRE-R-050,primary tumor (colorectum),pre-treatment,pre-Tx,50,102
+103,18R702_0010,POST-R-014,primary tumor (colorectum),post-treatment,post-Tx non-PD,14,103
+104,18R656_0018,PAIR-R-021,primary tumor (colorectum),pre-treatment,pre-Tx,21,104
+105,18R657_0019,PAIR-R-021,primary tumor (colorectum),post-treatment,post-tx PD,21,105
+106,18R673_0005,POST-R-015,primary tumor (colorectum),post-treatment,post-Tx non-PD,15,106
+107,18R465_0006,POST-R-016,primary tumor (colorectum),post-treatment,post-tx PD,16,107
+108,18R454_0027,PRE-R-051,primary tumor (colorectum),pre-treatment,pre-Tx,51,108
+109,18R477_0019,PRE-R-052,primary tumor (colorectum),pre-treatment,pre-Tx,52,109
+110,18R507_0004,PRE-10,primary tumor (colorectum),pre-treatment,pre-Tx,10,110
+111,18R428_0008,PRE-R-054,primary tumor (colorectum),pre-treatment,pre-Tx,54,111
+112,18R705_0013,PRE-R-055,primary tumor (colorectum),pre-treatment,pre-Tx,55,112

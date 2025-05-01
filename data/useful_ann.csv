@@ -1,114 +1,114 @@
-,some_id,sample_title,tissue,time point,treatment response,patient_id
-GSM5575333,18R649_010,POST-R-001,primary tumor (colorectum),post-treatment,post-Tx non-PD,0001
-GSM5575334,18R654_15,PAIR-R-001-pre,primary tumor (colorectum),pre-treatment,pre-Tx,0001
-GSM5575335,18R655_016,PAIR-R-001,liver metastases,post-treatment,post-tx PD,0001
-GSM5575336,18R669_01,POST-R-002,primary tumor (colorectum),post-treatment,post-Tx non-PD,0002
-GSM5575337,18R670_02,PAIR-R-002,primary tumor (colorectum),,pre-Tx,0002
-GSM5575338,18R671_03,PAIR-R-002,liver metastases,post-treatment,post-Tx non-PD,0002
-GSM5575339,18R674_06,PAIR-R-003,primary tumor (colorectum),pre-treatment,pre-Tx,0003
-GSM5575340,18R675_07,PAIR-R-003,peritoneal metastases,post-treatment,post-tx PD,0003
-GSM5575341,18R677_09,POST-R-003,other site metastases,post-treatment,post-tx PD,0003
-GSM5575342,18R678_010,PRE-R-001,primary tumor (colorectum),pre-treatment,pre-Tx,0001
-GSM5575343,18R683_015,PAIR-R-004,primary tumor (colorectum),pre-treatment,pre-Tx,0004
-GSM5575344,18R684_016,PAIR-R-004,liver metastases,post-treatment,post-Tx non-PD,0004
-GSM5575345,18R689_022,PAIR-R-005,primary tumor (colorectum),pre-treatment,pre-Tx,0005
-GSM5575346,18R690_023,PAIR-R-005,primary tumor (colorectum),post-treatment,post-tx PD,0005
-GSM5575347,18R694_02,POST-R-004,primary tumor (colorectum),post-treatment,post-Tx non-PD,0004
-GSM5575348,18R697_05,POST-R-005,primary tumor (colorectum),post-treatment,post-Tx non-PD,0005
-GSM5575349,18R699_07,PAIR-R-006,primary tumor (colorectum),pre-treatment,pre-Tx,0006
-GSM5575350,18R700_08,PAIR-R-006,primary tumor (colorectum),post-treatment,post-tx PD,0006
-GSM5575351,18R429_009,PRE-R-002,primary tumor (colorectum),pre-treatment,pre-Tx,0002
-GSM5575352,18R651_012,POST-R-006,lung metastases,post-treatment,post-tx PD,0006
-GSM5575353,18R430_010,PRE-R-003,liver metastases,pre-treatment,pre-Tx,0003
-GSM5575354,18R682_014,POST-R-007,liver metastases,post-treatment,post-Tx non-PD,0007
-GSM5575355,18R688_021,POST-R-008,liver metastases,post-treatment,post-tx PD,0008
-GSM5575356,18R298_0010,PAIR-04,primary tumor (colorectum),pre-treatment,pre-Tx,0004
-GSM5575357,18R305_0007,PAIR-R-007,liver metastases,post-treatment,post-tx PD,0007
-GSM5575358,18R646_007,POST-R-009,liver metastases,post-treatment,post-tx PD,0009
-GSM5575359,18R647_08,PAIR-R-008,primary tumor (colorectum),pre-treatment,pre-Tx,0008
-GSM5575360,18R648_09,PAIR-R-008,primary tumor (colorectum),post-treatment,post-Tx non-PD,0008
-GSM5575361,18R294_0001,PAIR-28,primary tumor (colorectum),pre-treatment,pre-Tx,0028
-GSM5575362,18R297_0009,PAIR-28,liver metastases,post-treatment,post-tx PD,0028
-GSM5575363,18R295_0003,PAIR-29,primary tumor (colorectum),pre-treatment,pre-Tx,0029
-GSM5575364,18R175_0011,PAIR-R-010,liver metastases,post-treatment,post-tx PD,0010
-GSM5575365,18R296_0008,PAIR-32,primary tumor (colorectum),pre-treatment,pre-Tx,0032
-GSM5575366,18R179_0023,PAIR-R-011,liver metastases,pre-treatment,pre-Tx,0011
-GSM5575367,18R318_0005,PAIR-39,lung metastases,post-treatment,post-tx PD,0039
-GSM5575368,18R176_0020,PRE-R-005,primary tumor (colorectum),pre-treatment,pre-Tx,0005
-GSM5575369,18R178_0022,PRE-R-006,primary tumor (colorectum),pre-treatment,pre-Tx,0006
-GSM5575370,18R177_0021,PRE-R-007,primary tumor (colorectum),pre-treatment,pre-Tx,0007
-GSM5575371,18R299_0025,PAIR-R-012,primary tumor (colorectum),pre-treatment,pre-Tx,0012
-GSM5575372,18R304_0006,PAIR-R-012,liver metastases,post-treatment,post-tx PD,0012
-GSM5575373,18R300_0027,PAIR-R-013,primary tumor (colorectum),pre-treatment,pre-Tx,0013
-GSM5575374,18R310_0016,PAIR-R-013,liver metastases,post-treatment,post-tx PD,0013
-GSM5575375,18R659_020,POST-R-010,primary tumor (colorectum),post-treatment,post-Tx non-PD,0010
-GSM5575376,18R661_021,POST-R-011,primary tumor (colorectum),post-treatment,post-Tx non-PD,0011
-GSM5575377,18R301_0002,PRE-R-008,primary tumor (colorectum),pre-treatment,pre-Tx,0008
-GSM5575378,18R302_0004,PAIR-R-014,primary tumor (colorectum),pre-treatment,pre-Tx,0014
-GSM5575379,18R306_0012,PAIR-R-014,liver metastases,post-treatment,post-Tx non-PD,0014
-GSM5575380,18R663_027,POST-R-012,primary tumor (colorectum),post-treatment,post-Tx non-PD,0012
-GSM5575381,18R664_01,PAIR-R-015,primary tumor (colorectum),pre-treatment,pre-Tx,0015
-GSM5575382,18R665_02,PAIR-R-015,liver metastases,post-treatment,post-Tx non-PD,0015
-GSM5575383,18R307_0013,PAIR-R-016,primary tumor (colorectum),pre-treatment,pre-Tx,0016
-GSM5575384,18R309_0015,PAIR-R-016,liver metastases,post-treatment,post-tx PD,0016
-GSM5575385,18R319_0014,PAIR-61,primary tumor (colorectum),pre-treatment,pre-Tx,0061
-GSM5575386,18R311_0018,PAIR-R-017,liver metastases,post-treatment,post-tx PD,0017
-GSM5575387,18R685_018,PRE-R-009,primary tumor (colorectum),pre-treatment,pre-Tx,0009
-GSM5575388,18R642_003,PRE-R-010,primary tumor (colorectum),pre-treatment,pre-Tx,0010
-GSM5575389,18R645_006,PRE-R-011,primary tumor (colorectum),pre-treatment,pre-Tx,0011
-GSM5575390,18R653_014,POST-R-013,primary tumor (colorectum),post-treatment,post-tx PD,0013
-GSM5575391,18R432_012,PRE-R-012,primary tumor (colorectum),pre-treatment,pre-Tx,0012
-GSM5575392,18R434_014,PAIR-R-018,primary tumor (colorectum),pre-treatment,pre-Tx,0018
-GSM5575393,18R455_001,PAIR-R-018,liver metastases,post-treatment,post-tx PD,0018
-GSM5575394,18R460_001,PRE-R-013,primary tumor (colorectum),pre-treatment,pre-Tx,0013
-GSM5575395,18R695_03,PAIR-R-019,primary tumor (colorectum),pre-treatment,pre-Tx,0019
-GSM5575396,18R696_04,PAIR-R-019,liver metastases,post-treatment,post-tx PD,0019
-GSM5575397,18R473_014,PRE-R-014,primary tumor (colorectum),pre-treatment,pre-Tx,0014
-GSM5575398,18R443_022,PRE-R-015,primary tumor (colorectum),pre-treatment,pre-Tx,0015
-GSM5575399,18R442_021,PRE-R-016,liver metastases,pre-treatment,pre-Tx,0016
-GSM5575400,18R436_016,PRE-R-017,primary tumor (colorectum),pre-treatment,pre-Tx,0017
-GSM5575401,18R466_007,PRE-R-018,lung metastases,pre-treatment,pre-Tx,0018
-GSM5575402,18R423_003,PRE-R-019,lung metastases,pre-treatment,pre-Tx,0019
-GSM5575403,18R421_001,PRE-R-020,primary tumor (colorectum),pre-treatment,pre-Tx,0020
-GSM5575404,18R463_004,PRE-R-021,primary tumor (colorectum),pre-treatment,pre-Tx,0021
-GSM5575405,18R472_013,PRE-R-022,primary tumor (colorectum),pre-treatment,pre-Tx,0022
-GSM5575406,18R426_006,PRE-R-023,primary tumor (colorectum),pre-treatment,pre-Tx,0023
-GSM5575407,18R427_007,PRE-R-024,primary tumor (colorectum),pre-treatment,pre-Tx,0024
-GSM5575408,18R508_011,PRE-15,primary tumor (colorectum),pre-treatment,pre-Tx,0015
-GSM5575409,18R433_013,PRE-R-026,primary tumor (colorectum),pre-treatment,pre-Tx,0026
-GSM5575410,18R435_015,PRE-R-027,primary tumor (colorectum),pre-treatment,pre-Tx,0027
-GSM5575411,18R437_018,PRE-R-028,primary tumor (colorectum),pre-treatment,pre-Tx,0028
-GSM5575412,18R449_023,PRE-R-029,primary tumor (colorectum),pre-treatment,pre-Tx,0029
-GSM5575413,18R438_019,PRE-R-030,primary tumor (colorectum),pre-treatment,pre-Tx,0030
-GSM5575414,18R440_020,PRE-R-031,primary tumor (colorectum),pre-treatment,pre-Tx,0031
-GSM5575415,18R456_002,PRE-R-032,primary tumor (colorectum),pre-treatment,pre-Tx,0032
-GSM5575416,18R457_023,PRE-R-033,primary tumor (colorectum),pre-treatment,pre-Tx,0033
-GSM5575417,18R458_025,PRE-R-034,primary tumor (colorectum),pre-treatment,pre-Tx,0034
-GSM5575418,18R459_027,PRE-R-035,primary tumor (colorectum),pre-treatment,pre-Tx,0035
-GSM5575419,18R461_002,PRE-R-036,primary tumor (colorectum),pre-treatment,pre-Tx,0036
-GSM5575420,18R462_003,PRE-R-037,primary tumor (colorectum),pre-treatment,pre-Tx,0037
-GSM5575421,18R464_005,PRE-R-038,primary tumor (colorectum),pre-treatment,pre-Tx,0038
-GSM5575422,18R467_008,PRE-R-039,other site metastases,pre-treatment,pre-Tx,0039
-GSM5575423,18R468_009,PRE-R-040,primary tumor (colorectum),pre-treatment,pre-Tx,0040
-GSM5575424,18R469_010,PRE-R-041,primary tumor (colorectum),pre-treatment,pre-Tx,0041
-GSM5575425,18R470_011,PRE-R-042,primary tumor (colorectum),pre-treatment,pre-Tx,0042
-GSM5575426,18R471_012,PRE-R-043,primary tumor (colorectum),pre-treatment,pre-Tx,0043
-GSM5575427,18R474_015,PRE-R-044,primary tumor (colorectum),pre-treatment,pre-Tx,0044
-GSM5575428,18R475_016,PRE-R-045,primary tumor (colorectum),pre-treatment,pre-Tx,0045
-GSM5575429,18R476_018,PRE-R-046,primary tumor (colorectum),pre-treatment,pre-Tx,0046
-GSM5575430,18R640_001,PAIR-R-020,primary tumor (colorectum),pre-treatment,pre-Tx,0020
-GSM5575431,18R641_002,PAIR-R-020,liver metastases,post-treatment,post-Tx non-PD,0020
-GSM5575432,18R701_09,PRE-R-047,primary tumor (colorectum),pre-treatment,pre-Tx,0047
-GSM5575433,18R478_020,PRE-R-048,primary tumor (colorectum),pre-treatment,pre-Tx,0048
-GSM5575434,18R479_021,PRE-R-049,primary tumor (colorectum),pre-treatment,pre-Tx,0049
-GSM5575435,18R480_022,PRE-R-050,primary tumor (colorectum),pre-treatment,pre-Tx,0050
-GSM5575436,18R702_010,POST-R-014,primary tumor (colorectum),post-treatment,post-Tx non-PD,0014
-GSM5575437,18R656_018,PAIR-R-021,primary tumor (colorectum),pre-treatment,pre-Tx,0021
-GSM5575438,18R657_019,PAIR-R-021,primary tumor (colorectum),post-treatment,post-tx PD,0021
-GSM5575439,18R673_05,POST-R-015,primary tumor (colorectum),post-treatment,post-Tx non-PD,0015
-GSM5575440,18R465_006,POST-R-016,primary tumor (colorectum),post-treatment,post-tx PD,0016
-GSM5575441,18R454_027,PRE-R-051,primary tumor (colorectum),pre-treatment,pre-Tx,0051
-GSM5575442,18R477_019,PRE-R-052,primary tumor (colorectum),pre-treatment,pre-Tx,0052
-GSM5575443,18R507_004,PRE-10,primary tumor (colorectum),pre-treatment,pre-Tx,0010
-GSM5575444,18R428_008,PRE-R-054,primary tumor (colorectum),pre-treatment,pre-Tx,0054
-GSM5575445,18R705_013,PRE-R-055,primary tumor (colorectum),pre-treatment,pre-Tx,0055
+,sample_id,sample_title,tissue,time point,treatment response,patient_id,gsm_id
+0,18R649_0010,POST-R-001,primary tumor (colorectum),post-treatment,post-Tx non-PD,0001,GSM5575333
+1,18R654_0015,PAIR-R-001-pre,primary tumor (colorectum),pre-treatment,pre-Tx,0001,GSM5575334
+2,18R655_0016,PAIR-R-001,liver metastases,post-treatment,post-tx PD,0001,GSM5575335
+3,18R669_0001,POST-R-002,primary tumor (colorectum),post-treatment,post-Tx non-PD,0002,GSM5575336
+4,18R670_0002,PAIR-R-002,primary tumor (colorectum),,pre-Tx,0002,GSM5575337
+5,18R671_0003,PAIR-R-002,liver metastases,post-treatment,post-Tx non-PD,0002,GSM5575338
+6,18R674_0006,PAIR-R-003,primary tumor (colorectum),pre-treatment,pre-Tx,0003,GSM5575339
+7,18R675_0007,PAIR-R-003,peritoneal metastases,post-treatment,post-tx PD,0003,GSM5575340
+8,18R677_0009,POST-R-003,other site metastases,post-treatment,post-tx PD,0003,GSM5575341
+9,18R678_0010,PRE-R-001,primary tumor (colorectum),pre-treatment,pre-Tx,0001,GSM5575342
+10,18R683_0015,PAIR-R-004,primary tumor (colorectum),pre-treatment,pre-Tx,0004,GSM5575343
+11,18R684_0016,PAIR-R-004,liver metastases,post-treatment,post-Tx non-PD,0004,GSM5575344
+12,18R689_0022,PAIR-R-005,primary tumor (colorectum),pre-treatment,pre-Tx,0005,GSM5575345
+13,18R690_0023,PAIR-R-005,primary tumor (colorectum),post-treatment,post-tx PD,0005,GSM5575346
+14,18R694_0002,POST-R-004,primary tumor (colorectum),post-treatment,post-Tx non-PD,0004,GSM5575347
+15,18R697_0005,POST-R-005,primary tumor (colorectum),post-treatment,post-Tx non-PD,0005,GSM5575348
+16,18R699_0007,PAIR-R-006,primary tumor (colorectum),pre-treatment,pre-Tx,0006,GSM5575349
+17,18R700_0008,PAIR-R-006,primary tumor (colorectum),post-treatment,post-tx PD,0006,GSM5575350
+18,18R429_0009,PRE-R-002,primary tumor (colorectum),pre-treatment,pre-Tx,0002,GSM5575351
+19,18R651_0012,POST-R-006,lung metastases,post-treatment,post-tx PD,0006,GSM5575352
+20,18R430_0010,PRE-R-003,liver metastases,pre-treatment,pre-Tx,0003,GSM5575353
+21,18R682_0014,POST-R-007,liver metastases,post-treatment,post-Tx non-PD,0007,GSM5575354
+22,18R688_0021,POST-R-008,liver metastases,post-treatment,post-tx PD,0008,GSM5575355
+23,18R298_0010,PAIR-04,primary tumor (colorectum),pre-treatment,pre-Tx,0004,GSM5575356
+24,18R305_0007,PAIR-R-007,liver metastases,post-treatment,post-tx PD,0007,GSM5575357
+25,18R646_0007,POST-R-009,liver metastases,post-treatment,post-tx PD,0009,GSM5575358
+26,18R647_0008,PAIR-R-008,primary tumor (colorectum),pre-treatment,pre-Tx,0008,GSM5575359
+27,18R648_0009,PAIR-R-008,primary tumor (colorectum),post-treatment,post-Tx non-PD,0008,GSM5575360
+28,18R294_0001,PAIR-28,primary tumor (colorectum),pre-treatment,pre-Tx,0028,GSM5575361
+29,18R297_0009,PAIR-28,liver metastases,post-treatment,post-tx PD,0028,GSM5575362
+30,18R295_0003,PAIR-29,primary tumor (colorectum),pre-treatment,pre-Tx,0029,GSM5575363
+31,18R175_0011,PAIR-R-010,liver metastases,post-treatment,post-tx PD,0010,GSM5575364
+32,18R296_0008,PAIR-32,primary tumor (colorectum),pre-treatment,pre-Tx,0032,GSM5575365
+33,18R179_0023,PAIR-R-011,liver metastases,pre-treatment,pre-Tx,0011,GSM5575366
+34,18R318_0005,PAIR-39,lung metastases,post-treatment,post-tx PD,0039,GSM5575367
+35,18R176_0020,PRE-R-005,primary tumor (colorectum),pre-treatment,pre-Tx,0005,GSM5575368
+36,18R178_0022,PRE-R-006,primary tumor (colorectum),pre-treatment,pre-Tx,0006,GSM5575369
+37,18R177_0021,PRE-R-007,primary tumor (colorectum),pre-treatment,pre-Tx,0007,GSM5575370
+38,18R299_0025,PAIR-R-012,primary tumor (colorectum),pre-treatment,pre-Tx,0012,GSM5575371
+39,18R304_0006,PAIR-R-012,liver metastases,post-treatment,post-tx PD,0012,GSM5575372
+40,18R300_0027,PAIR-R-013,primary tumor (colorectum),pre-treatment,pre-Tx,0013,GSM5575373
+41,18R310_0016,PAIR-R-013,liver metastases,post-treatment,post-tx PD,0013,GSM5575374
+42,18R659_0020,POST-R-010,primary tumor (colorectum),post-treatment,post-Tx non-PD,0010,GSM5575375
+43,18R661_0021,POST-R-011,primary tumor (colorectum),post-treatment,post-Tx non-PD,0011,GSM5575376
+44,18R301_0002,PRE-R-008,primary tumor (colorectum),pre-treatment,pre-Tx,0008,GSM5575377
+45,18R302_0004,PAIR-R-014,primary tumor (colorectum),pre-treatment,pre-Tx,0014,GSM5575378
+46,18R306_0012,PAIR-R-014,liver metastases,post-treatment,post-Tx non-PD,0014,GSM5575379
+47,18R663_0027,POST-R-012,primary tumor (colorectum),post-treatment,post-Tx non-PD,0012,GSM5575380
+48,18R664_0001,PAIR-R-015,primary tumor (colorectum),pre-treatment,pre-Tx,0015,GSM5575381
+49,18R665_0002,PAIR-R-015,liver metastases,post-treatment,post-Tx non-PD,0015,GSM5575382
+50,18R307_0013,PAIR-R-016,primary tumor (colorectum),pre-treatment,pre-Tx,0016,GSM5575383
+51,18R309_0015,PAIR-R-016,liver metastases,post-treatment,post-tx PD,0016,GSM5575384
+52,18R319_0014,PAIR-61,primary tumor (colorectum),pre-treatment,pre-Tx,0061,GSM5575385
+53,18R311_0018,PAIR-R-017,liver metastases,post-treatment,post-tx PD,0017,GSM5575386
+54,18R685_0018,PRE-R-009,primary tumor (colorectum),pre-treatment,pre-Tx,0009,GSM5575387
+55,18R642_0003,PRE-R-010,primary tumor (colorectum),pre-treatment,pre-Tx,0010,GSM5575388
+56,18R645_0006,PRE-R-011,primary tumor (colorectum),pre-treatment,pre-Tx,0011,GSM5575389
+57,18R653_0014,POST-R-013,primary tumor (colorectum),post-treatment,post-tx PD,0013,GSM5575390
+58,18R432_0012,PRE-R-012,primary tumor (colorectum),pre-treatment,pre-Tx,0012,GSM5575391
+59,18R434_0014,PAIR-R-018,primary tumor (colorectum),pre-treatment,pre-Tx,0018,GSM5575392
+60,18R455_0001,PAIR-R-018,liver metastases,post-treatment,post-tx PD,0018,GSM5575393
+61,18R460_0001,PRE-R-013,primary tumor (colorectum),pre-treatment,pre-Tx,0013,GSM5575394
+62,18R695_0003,PAIR-R-019,primary tumor (colorectum),pre-treatment,pre-Tx,0019,GSM5575395
+63,18R696_0004,PAIR-R-019,liver metastases,post-treatment,post-tx PD,0019,GSM5575396
+64,18R473_0014,PRE-R-014,primary tumor (colorectum),pre-treatment,pre-Tx,0014,GSM5575397
+65,18R443_0022,PRE-R-015,primary tumor (colorectum),pre-treatment,pre-Tx,0015,GSM5575398
+66,18R442_0021,PRE-R-016,liver metastases,pre-treatment,pre-Tx,0016,GSM5575399
+67,18R436_0016,PRE-R-017,primary tumor (colorectum),pre-treatment,pre-Tx,0017,GSM5575400
+68,18R466_0007,PRE-R-018,lung metastases,pre-treatment,pre-Tx,0018,GSM5575401
+69,18R423_0003,PRE-R-019,lung metastases,pre-treatment,pre-Tx,0019,GSM5575402
+70,18R421_0001,PRE-R-020,primary tumor (colorectum),pre-treatment,pre-Tx,0020,GSM5575403
+71,18R463_0004,PRE-R-021,primary tumor (colorectum),pre-treatment,pre-Tx,0021,GSM5575404
+72,18R472_0013,PRE-R-022,primary tumor (colorectum),pre-treatment,pre-Tx,0022,GSM5575405
+73,18R426_0006,PRE-R-023,primary tumor (colorectum),pre-treatment,pre-Tx,0023,GSM5575406
+74,18R427_0007,PRE-R-024,primary tumor (colorectum),pre-treatment,pre-Tx,0024,GSM5575407
+75,18R508_0011,PRE-15,primary tumor (colorectum),pre-treatment,pre-Tx,0015,GSM5575408
+76,18R433_0013,PRE-R-026,primary tumor (colorectum),pre-treatment,pre-Tx,0026,GSM5575409
+77,18R435_0015,PRE-R-027,primary tumor (colorectum),pre-treatment,pre-Tx,0027,GSM5575410
+78,18R437_0018,PRE-R-028,primary tumor (colorectum),pre-treatment,pre-Tx,0028,GSM5575411
+79,18R449_0023,PRE-R-029,primary tumor (colorectum),pre-treatment,pre-Tx,0029,GSM5575412
+80,18R438_0019,PRE-R-030,primary tumor (colorectum),pre-treatment,pre-Tx,0030,GSM5575413
+81,18R440_0020,PRE-R-031,primary tumor (colorectum),pre-treatment,pre-Tx,0031,GSM5575414
+82,18R456_0002,PRE-R-032,primary tumor (colorectum),pre-treatment,pre-Tx,0032,GSM5575415
+83,18R457_0023,PRE-R-033,primary tumor (colorectum),pre-treatment,pre-Tx,0033,GSM5575416
+84,18R458_0025,PRE-R-034,primary tumor (colorectum),pre-treatment,pre-Tx,0034,GSM5575417
+85,18R459_0027,PRE-R-035,primary tumor (colorectum),pre-treatment,pre-Tx,0035,GSM5575418
+86,18R461_0002,PRE-R-036,primary tumor (colorectum),pre-treatment,pre-Tx,0036,GSM5575419
+87,18R462_0003,PRE-R-037,primary tumor (colorectum),pre-treatment,pre-Tx,0037,GSM5575420
+88,18R464_0005,PRE-R-038,primary tumor (colorectum),pre-treatment,pre-Tx,0038,GSM5575421
+89,18R467_0008,PRE-R-039,other site metastases,pre-treatment,pre-Tx,0039,GSM5575422
+90,18R468_0009,PRE-R-040,primary tumor (colorectum),pre-treatment,pre-Tx,0040,GSM5575423
+91,18R469_0010,PRE-R-041,primary tumor (colorectum),pre-treatment,pre-Tx,0041,GSM5575424
+92,18R470_0011,PRE-R-042,primary tumor (colorectum),pre-treatment,pre-Tx,0042,GSM5575425
+93,18R471_0012,PRE-R-043,primary tumor (colorectum),pre-treatment,pre-Tx,0043,GSM5575426
+94,18R474_0015,PRE-R-044,primary tumor (colorectum),pre-treatment,pre-Tx,0044,GSM5575427
+95,18R475_0016,PRE-R-045,primary tumor (colorectum),pre-treatment,pre-Tx,0045,GSM5575428
+96,18R476_0018,PRE-R-046,primary tumor (colorectum),pre-treatment,pre-Tx,0046,GSM5575429
+97,18R640_0001,PAIR-R-020,primary tumor (colorectum),pre-treatment,pre-Tx,0020,GSM5575430
+98,18R641_0002,PAIR-R-020,liver metastases,post-treatment,post-Tx non-PD,0020,GSM5575431
+99,18R701_0009,PRE-R-047,primary tumor (colorectum),pre-treatment,pre-Tx,0047,GSM5575432
+100,18R478_0020,PRE-R-048,primary tumor (colorectum),pre-treatment,pre-Tx,0048,GSM5575433
+101,18R479_0021,PRE-R-049,primary tumor (colorectum),pre-treatment,pre-Tx,0049,GSM5575434
+102,18R480_0022,PRE-R-050,primary tumor (colorectum),pre-treatment,pre-Tx,0050,GSM5575435
+103,18R702_0010,POST-R-014,primary tumor (colorectum),post-treatment,post-Tx non-PD,0014,GSM5575436
+104,18R656_0018,PAIR-R-021,primary tumor (colorectum),pre-treatment,pre-Tx,0021,GSM5575437
+105,18R657_0019,PAIR-R-021,primary tumor (colorectum),post-treatment,post-tx PD,0021,GSM5575438
+106,18R673_0005,POST-R-015,primary tumor (colorectum),post-treatment,post-Tx non-PD,0015,GSM5575439
+107,18R465_0006,POST-R-016,primary tumor (colorectum),post-treatment,post-tx PD,0016,GSM5575440
+108,18R454_0027,PRE-R-051,primary tumor (colorectum),pre-treatment,pre-Tx,0051,GSM5575441
+109,18R477_0019,PRE-R-052,primary tumor (colorectum),pre-treatment,pre-Tx,0052,GSM5575442
+110,18R507_0004,PRE-10,primary tumor (colorectum),pre-treatment,pre-Tx,0010,GSM5575443
+111,18R428_0008,PRE-R-054,primary tumor (colorectum),pre-treatment,pre-Tx,0054,GSM5575444
+112,18R705_0013,PRE-R-055,primary tumor (colorectum),pre-treatment,pre-Tx,0055,GSM5575445
