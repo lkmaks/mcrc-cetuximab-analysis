@@ -1,0 +1,62 @@
+AHNAK2	Microarray	Mesenchymal	AHNAK nucleoprotein 2	Chr14:104937253-104978374	GO:0001778 plasma membrane repair
+GO:0007009 plasma membrane organization
+GO:0043484 regulation of RNA splicing	NA
+C10orf99	Microarray	Epithelial	Chromosome 10 open reading frame 99	Chr10:84173801-84185294	GO:2000404 regulation of T cell migration
+GO:0048247 lymphocyte chemotaxis
+GO:2000401 regulation of lymphocyte migration	NA
+CAVIN1	Microarray	Mesenchymal	Caveolae associated protein 1	Chr17:42402449-42423256	GO:0006363 termination of RNA polymerase I transcription
+GO:0006361 transcription initiation from RNA polymerase I promoter
+GO:0009303 rRNA transcription	(M5905)HALLMARK ADIPOGENESIS
+(M5891)HALLMARK HYPOXIA
+CAVIN3	Microarray	Mesenchymal	Caveolae associated protein 3	Chr11:6318946-6320501	GO:1901003 negative regulation of fermentation
+GO:0043465 regulation of fermentation
+GO:0006113 fermentation	(M5891)HALLMARK HYPOXIA
+CD109	Microarray	Mesenchymal	CD109 molecule	Chr6:73696203-73828313	GO:0072675 osteoclast fusion
+GO:0072674 multinuclear osteoclast differentiation
+GO:0010839 negative regulation of keratinocyte proliferation	NA
+CDX1	Microarray	Epithelial	Caudal type homeobox 1	Chr5:150166778-150184558	GO:0014807 regulation of somitogenesis
+GO:0001756 somitogenesis
+GO:0009948 anterior/posterior axis specification	NA
+CDX2	Microarray	Epithelial	Caudal type homeobox 2	Chr13:27960918-27969368	GO:0001829 trophectodermal cell differentiation
+GO:0014807 regulation of somitogenesis
+GO:0001825 blastocyst formation	NA
+DDC	Microarray	Epithelial	Dopa decarboxylase	Chr7:50458443-50565405	GO:0042416 dopamine biosynthetic process
+GO:0033076 isoquinoline alkaloid metabolic process
+GO:0042427 serotonin biosynthetic process	(M5934)HALLMARK XENOBIOTIC METABOLISM
+EPHB2	Microarray	Epithelial	EPH receptor B2	Chr1:22710839-22921500	GO:1904782 negative regulation of NMDA glutamate receptor activity
+GO:0048170 positive regulation of long-term neuronal synaptic plasticity
+GO:0099557 trans-synaptic signaling by trans-synaptic complex, modulating synaptic transmission	(M5953)HALLMARK KRAS SIGNALING UP
+GAS1	Microarray	Mesenchymal	Growth arrest specific 1	Chr9:86944362-86947506	GO:0060628 regulation of ER to Golgi vesicle-mediated transport
+GO:0010955 negative regulation of protein processing
+GO:1903318 negative regulation of protein maturation	(M5916)HALLMARK APICAL SURFACE
+(M5930)HALLMARK EPITHELIAL MESENCHYMAL TRANSITION
+GFPT2	Microarray	Mesenchymal	Glutamine-fructose-6-phosphate transaminase 2	Chr5:180300698-180353336	GO:0006048 UDP-N-acetylglucosamine biosynthetic process
+GO:0006541 glutamine metabolic process
+GO:0006047 UDP-N-acetylglucosamine metabolic process	(M5890)HALLMARK TNFA SIGNALING VIA NFKB
+(M5953)HALLMARK KRAS SIGNALING UP
+GPA33	Microarray	Epithelial	Glycoprotein A33	Chr1:167052836-167090377	NA	NA
+LRATD1	Microarray	Epithelial	LRAT domain containing 1	Chr2:14632717-14640041	GO:0000902 cell morphogenesis
+GO:0032989 cellular component morphogenesis
+GO:0048870 cell motility	NA
+MEIS2	Microarray	Mesenchymal	Meis homeobox 2	Chr15:36889206-37101311	GO:0110024 positive regulation of cardiac muscle myoblast proliferation
+GO:0110022 regulation of cardiac muscle myoblast proliferation
+GO:2000288 positive regulation of myoblast proliferation	(M5901)HALLMARK G2M CHECKPOINT
+MYB	Microarray	Epithelial	MYB proto-oncogene, transcription factor	Chr6:135181308-135219172	GO:0045624 positive regulation of T-helper cell differentiation
+GO:2000845 positive regulation of testosterone secretion
+GO:0045622 regulation of T-helper cell differentiation	(M5907)HALLMARK ESTROGEN RESPONSE LATE
+(M5906)HALLMARK ESTROGEN RESPONSE EARLY
+NR1I2	Microarray	Epithelial	Nuclear receptor subfamily 1 group I member 2	Chr3:119782710-119818485	GO:0046618 drug export
+GO:0042908 xenobiotic transport
+GO:0042738 exogenous drug catabolic process	(M5949)HALLMARK PEROXISOME
+(M5948)HALLMARK BILE ACID METABOLISM
+NXN	Microarray	Mesenchymal	Nucleoredoxin	Chr17:799311-979776	GO:0031397 negative regulation of protein ubiquitination
+GO:1903321 negative regulation of protein modification by small protein conjugation or removal
+GO:0098869 cellular oxidant detoxification	NA
+OPMP22	Microarray	Mesenchymal	NA	NA	NA	NA
+TRABD2A	Microarray	Epithelial	TraB domain containing 2A	Chr2:84821667-84881084	GO:1904808 positive regulation of protein oxidation
+GO:1904806 regulation of protein oxidation
+GO:0032461 positive regulation of protein oligomerization	NA
+WWTR1	Microarray	Mesenchymal	WW domain containing transcription regulator 1	Chr3:149517235-149658025	GO:0072307 regulation of metanephric nephron tubule epithelial cell differentiation
+GO:0072257 metanephric nephron tubule epithelial cell differentiation
+GO:0072182 regulation of nephron tubule epithelial cell differentiation	(M5896)HALLMARK TGF BETA SIGNALING
+(M5909)HALLMARK MYOGENESIS

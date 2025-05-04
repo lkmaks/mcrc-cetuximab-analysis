@@ -1,0 +1,18 @@
+Gene Symbol	Platform	Phenotype*	Gene name	Location	Gene Ontology	Hallmark Pathway
+FN1	RNAseq	EMT	Fibronectin 1	Chr2:215360440-215436068	GO:2001202 negative regulation of transforming growth factor-beta secretion
+GO:1904237 positive regulation of substrate-dependent cell migration, cell attachment to substrate
+GO:2001201 regulation of transforming growth factor-beta secretion	(M5946)HALLMARK COAGULATION
+(M5921)HALLMARK COMPLEMENT
+(M5930)HALLMARK EPITHELIAL MESENCHYMAL TRANSITION
+FOXC2	RNAseq	EMT	Forkhead box C2	Chr16:86566829-86569727	GO:1902257 negative regulation of apoptotic process involved in outflow tract morphogenesis
+GO:0072144 glomerular mesangial cell development
+GO:0035470 positive regulation of vascular wound healing	(M5930)HALLMARK EPITHELIAL MESENCHYMAL TRANSITION
+HMGA2	RNAseq	EMT	High mobility group AT-hook 2	Chr12:65824460-65843523	GO:2000685 positive regulation of cellular response to X-ray
+GO:0035978 histone H2A-S139 phosphorylation
+GO:0045869 negative regulation of single stranded viral RNA replication via double stranded DNA intermediate	NA
+TWIST1	RNAseq	EMT	Twist family bHLH transcription factor 1	Chr7:19115468-19117636	GO:2000802 positive regulation of endocardial cushion to mesenchymal transition involved in heart valve formation
+GO:0140051 positive regulation of endocardial cushion to mesenchymal transition
+GO:2000800 regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	NA
+VIM	RNAseq	EMT	Vimentin	Chr10:17228241-17237593	GO:0070307 lens fiber cell development
+GO:0060020 Bergmann glial cell differentiation
+GO:0071225 cellular response to muramyl dipeptide	(M5930)HALLMARK EPITHELIAL MESENCHYMAL TRANSITION
