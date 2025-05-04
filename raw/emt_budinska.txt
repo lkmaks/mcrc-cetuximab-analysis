@@ -1,0 +1,123 @@
+Gene Symbol	Platform	Phenotype*	Gene name	Location	Gene Ontology	Hallmark Pathway
+CDH11	microarray	Mesenchymal	Cadherin 11	Chr16:64943753-65122063	GO:0021957 corticospinal tract morphogenesis
+GO:0021952 central nervous system projection neuron axonogenesis
+GO:0021955 central nervous system neuron axonogenesis	(M5915)HALLMARK APICAL JUNCTION
+(M5930)HALLMARK EPITHELIAL MESENCHYMAL TRANSITION
+CDH2	microarray	Mesenchymal	Cadherin 2	Chr18:27950966-28177130	GO:1902897 regulation of postsynaptic density protein 95 clustering
+GO:2000809 positive regulation of synaptic vesicle clustering
+GO:0097118 neuroligin clustering involved in postsynaptic membrane assembly	(M5930)HALLMARK EPITHELIAL MESENCHYMAL TRANSITION
+DDR2	microarray	Mesenchymal	Discoidin domain receptor tyrosine kinase 2	Chr1:162631975-162787405	GO:0090091 positive regulation of extracellular matrix disassembly
+GO:0010763 positive regulation of fibroblast migration
+GO:0010715 regulation of extracellular matrix disassembly	NA
+DKK3	microarray	Mesenchymal	Dickkopf WNT signaling pathway inhibitor 3	Chr11:11962979-12009336	GO:2000065 negative regulation of cortisol biosynthetic process
+GO:0032348 negative regulation of aldosterone biosynthetic process
+GO:0032345 negative regulation of aldosterone metabolic process	NA
+FN1	microarray	EMT	Fibronectin 1	Chr2:215360440-215436068	GO:2001202 negative regulation of transforming growth factor-beta secretion
+GO:1904237 positive regulation of substrate-dependent cell migration, cell attachment to substrate
+GO:2001201 regulation of transforming growth factor-beta secretion	(M5946)HALLMARK COAGULATION
+(M5921)HALLMARK COMPLEMENT
+(M5930)HALLMARK EPITHELIAL MESENCHYMAL TRANSITION
+FZD1	microarray	Mesenchymal	Frizzled class receptor 1	Chr7:91264433-91271326	GO:0090179 planar cell polarity pathway involved in neural tube closure
+GO:0090178 regulation of establishment of planar polarity involved in neural tube closure
+GO:0090177 establishment of planar polarity involved in neural tube closure	(M5903)HALLMARK NOTCH SIGNALING
+(M5895)HALLMARK WNT BETA CATENIN SIGNALING
+FZD7	microarray	Mesenchymal	Frizzled class receptor 7	Chr2:202034587-202038437	GO:0042666 negative regulation of ectodermal cell fate specification
+GO:0042665 regulation of ectodermal cell fate specification
+GO:0001715 ectodermal cell fate specification	(M5903)HALLMARK NOTCH SIGNALING
+IGF1	microarray	EMT	Insulin like growth factor 1	Chr12:102417494-102480563	GO:1904075 positive regulation of trophectodermal cell proliferation
+GO:1904073 regulation of trophectodermal cell proliferation
+GO:0045821 positive regulation of glycolytic process	(M5934)HALLMARK XENOBIOTIC METABOLISM
+(M5909)HALLMARK MYOGENESIS
+IGFBP5	microarray	EMT	Insulin like growth factor binding protein 5	Chr2:216672105-216695549	GO:1904205 negative regulation of skeletal muscle hypertrophy
+GO:1904204 regulation of skeletal muscle hypertrophy
+GO:0014734 skeletal muscle hypertrophy	(M5942)HALLMARK UV RESPONSE DN
+(M5924)HALLMARK MTORC1 SIGNALING
+IGFBP7	microarray	EMT	Insulin like growth factor binding protein 7	Chr4:57032238-57110385	GO:0051414 response to cortisol
+GO:0007566 embryo implantation
+GO:0050810 regulation of steroid biosynthetic process	(M5909)HALLMARK MYOGENESIS
+LTBP1	microarray	EMT	Latent transforming growth factor beta binding protein 1	Chr2:33134597-33399508	GO:0035583 sequestering of TGFbeta in extracellular matrix
+GO:1901388 regulation of transforming growth factor beta activation
+GO:0035581 sequestering of extracellular ligand from receptor	(M5942)HALLMARK UV RESPONSE DN
+MMP14	microarray	Mesenchymal	Matrix metallopeptidase 14	Chr14:22836585-22847758	GO:0045579 positive regulation of B cell differentiation
+GO:0051895 negative regulation of focal adhesion assembly
+GO:1905523 positive regulation of macrophage migration	(M5946)HALLMARK COAGULATION
+(M5941)HALLMARK UV RESPONSE UP
+(M5930)HALLMARK EPITHELIAL MESENCHYMAL TRANSITION
+NRP1	microarray	EMT	Neuropilin 1	Chr10:33177491-33334905	GO:0021828 gonadotrophin-releasing hormone neuronal migration to the hypothalamus
+GO:0021824 cerebral cortex tangential migration using cell-axon interactions
+GO:1902336 positive regulation of retinal ganglion cell axon guidance	(M5944)HALLMARK ANGIOGENESIS
+(M5919)HALLMARK HEDGEHOG SIGNALING
+(M5942)HALLMARK UV RESPONSE DN
+NRP2	microarray	EMT	Neuropilin 2	Chr2:205682501-205779713	GO:0021828 gonadotrophin-releasing hormone neuronal migration to the hypothalamus
+GO:0021824 cerebral cortex tangential migration using cell-axon interactions
+GO:0021888 hypothalamus gonadotrophin-releasing hormone neuron development	(M5919)HALLMARK HEDGEHOG SIGNALING
+NXN	microarray	EMT	Nucleoredoxin	Chr17:799311-979776	GO:0031397 negative regulation of protein ubiquitination
+GO:1903321 negative regulation of protein modification by small protein conjugation or removal
+GO:0098869 cellular oxidant detoxification	NA
+PDGFRA	microarray	EMT	Platelet derived growth factor receptor alpha	Chr4:54229293-54298245	GO:0072277 metanephric glomerular capillary formation
+GO:0072276 metanephric glomerulus vasculature morphogenesis
+GO:0072104 glomerular capillary formation	NA
+PDGFRB	microarray	EMT	Platelet derived growth factor receptor beta	Chr5:150113839-150155845	GO:0035793 positive regulation of metanephric mesenchymal cell migration by platelet-derived growth factor receptor-beta signaling pathway
+GO:0072277 metanephric glomerular capillary formation
+GO:0072262 metanephric glomerular mesangial cell proliferation involved in metanephros development	(M5942)HALLMARK UV RESPONSE DN
+(M5902)HALLMARK APOPTOSIS
+(M5930)HALLMARK EPITHELIAL MESENCHYMAL TRANSITION
+PLAT	microarray	EMT	Plasminogen activator, tissue type	Chr8:42174718-42207565	GO:0099183 trans-synaptic signaling by BDNF, modulating synaptic transmission
+GO:0042730 fibrinolysis
+GO:0099191 trans-synaptic signaling by BDNF	(M5946)HALLMARK COAGULATION
+(M5902)HALLMARK APOPTOSIS
+(M5921)HALLMARK COMPLEMENT
+PLAU	microarray	EMT	Plasminogen activator, urokinase	Chr10:73911132-73917494	GO:2000097 regulation of smooth muscle cell-matrix adhesion
+GO:0042730 fibrinolysis
+GO:0061302 smooth muscle cell-matrix adhesion	(M5946)HALLMARK COAGULATION
+(M5890)HALLMARK TNFA SIGNALING VIA NFKB
+(M5953)HALLMARK KRAS SIGNALING UP
+PRICKLE1	microarray	EMT	Prickle planar cell polarity protein 1	Chr12:42456757-42589746	GO:2000691 negative regulation of cardiac muscle cell myoblast differentiation
+GO:2000690 regulation of cardiac muscle cell myoblast differentiation
+GO:0051892 negative regulation of cardioblast differentiation	NA
+SFRP1	microarray	Mesenchymal	Secreted frizzled related protein 1	Chr8:41261962-41309473	GO:2000041 negative regulation of planar cell polarity pathway involved in axis elongation
+GO:2000080 negative regulation of canonical Wnt signaling pathway involved in controlling type B pancreatic cell proliferation
+GO:0090179 planar cell polarity pathway involved in neural tube closure	(M5930)HALLMARK EPITHELIAL MESENCHYMAL TRANSITION
+SFRP2	microarray	Mesenchymal	Secreted frizzled related protein 2	Chr4:153780591-153789083	GO:2000041 negative regulation of planar cell polarity pathway involved in axis elongation
+GO:0090179 planar cell polarity pathway involved in neural tube closure
+GO:0042662 negative regulation of mesodermal cell fate specification	NA
+SFRP4	microarray	Mesenchymal	Secreted frizzled related protein 4	Chr7:37905933-37916817	GO:2000119 negative regulation of sodium-dependent phosphate transport
+GO:1902174 positive regulation of keratinocyte apoptotic process
+GO:2000118 regulation of sodium-dependent phosphate transport	(M5930)HALLMARK EPITHELIAL MESENCHYMAL TRANSITION
+SNAI2	microarray	Mesenchymal	Snail family transcriptional repressor 2	Chr8:48917598-48921429	GO:0070563 negative regulation of vitamin D receptor signaling pathway
+GO:0070562 regulation of vitamin D receptor signaling pathway
+GO:0010957 negative regulation of vitamin D biosynthetic process	(M5942)HALLMARK UV RESPONSE DN
+(M5930)HALLMARK EPITHELIAL MESENCHYMAL TRANSITION
+SPARC	microarray	Mesenchymal	Secreted protein acidic and cysteine rich	Chr5:151661096-151686915	GO:0033591 response to L-ascorbic acid
+GO:0016525 negative regulation of angiogenesis
+GO:0010595 positive regulation of endothelial cell migration	(M5946)HALLMARK COAGULATION
+(M5909)HALLMARK MYOGENESIS
+(M5930)HALLMARK EPITHELIAL MESENCHYMAL TRANSITION
+TGFB1	microarray	EMT	Transforming growth factor beta 1	Chr19:41330323-41353922	GO:0048298 positive regulation of isotype switching to IgA isotypes
+GO:0090190 positive regulation of branching involved in ureteric bud morphogenesis
+GO:0048296 regulation of isotype switching to IgA isotypes	(M5896)HALLMARK TGF BETA SIGNALING
+(M5897)HALLMARK IL6 JAK STAT3 SIGNALING
+(M5901)HALLMARK G2M CHECKPOINT
+THBS1	microarray	EMT	Thrombospondin 1	Chr15:39581079-39599466	GO:0010748 negative regulation of plasma membrane long-chain fatty acid transport
+GO:0010746 regulation of plasma membrane long-chain fatty acid transport
+GO:0051918 negative regulation of fibrinolysis	(M5896)HALLMARK TGF BETA SIGNALING
+(M5946)HALLMARK COAGULATION
+(M5930)HALLMARK EPITHELIAL MESENCHYMAL TRANSITION
+THBS2	microarray	EMT	Thrombospondin 2	Chr6:169215780-169254114	GO:0016525 negative regulation of angiogenesis
+GO:2000181 negative regulation of blood vessel morphogenesis
+GO:0051965 positive regulation of synapse assembly	(M5930)HALLMARK EPITHELIAL MESENCHYMAL TRANSITION
+THBS4	microarray	EMT	Thrombospondin 4	Chr5:80035348-80083284	GO:0090023 positive regulation of neutrophil chemotaxis
+GO:0071624 positive regulation of granulocyte chemotaxis
+GO:0090022 regulation of neutrophil chemotaxis	NA
+TWIST1	microarray	Mesenchymal	Twist family bHLH transcription factor 1	Chr7:19115468-19117636	GO:2000802 positive regulation of endocardial cushion to mesenchymal transition involved in heart valve formation
+GO:0140051 positive regulation of endocardial cushion to mesenchymal transition
+GO:2000800 regulation of endocardial cushion to mesenchymal transition involved in heart valve formation	NA
+VIM	microarray	Mesenchymal	Vimentin	Chr10:17228241-17237593	GO:0070307 lens fiber cell development
+GO:0060020 Bergmann glial cell differentiation
+GO:0071225 cellular response to muramyl dipeptide	(M5930)HALLMARK EPITHELIAL MESENCHYMAL TRANSITION
+ZEB1	microarray	Mesenchymal	Zinc finger E-box binding homeobox 1	Chr10:31319216-31529804	GO:0033081 regulation of T cell differentiation in thymus
+GO:0045602 negative regulation of endothelial cell differentiation
+GO:0048752 semicircular canal morphogenesis	(M5921)HALLMARK COMPLEMENT
+ZEB2	microarray	Mesenchymal	Zinc finger E-box binding homeobox 2	Chr2:144384081-144520119	GO:1902748 positive regulation of lens fiber cell differentiation
+GO:0021540 corpus callosum morphogenesis
+GO:0021957 corticospinal tract morphogenesis	NA
