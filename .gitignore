@@ -4,6 +4,7 @@ notebooks/task9/hw7
 
 data/Homo_sapiens.GRCh38.113.gtf
 
+results/*.pkl
 
 .pybiomart.sqlite
 .venv/
