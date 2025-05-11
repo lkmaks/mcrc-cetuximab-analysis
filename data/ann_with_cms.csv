@@ -67,7 +67,7 @@
 "18R664_0001","primary tumor (colorectum)","pre-treatment","non-PD",15,"PAIR-R-015","GSM5575381","CMS2"
 "18R669_0001","primary tumor (colorectum)","post-treatment","non-PD",2,"POST-R-002","GSM5575336","CMS3"
 "18R670_0002","primary tumor (colorectum)","pre-treatment","non-PD",2,"PAIR-R-002","GSM5575337","CMS4"
-"18R673_0005","primary tumor (colorectum)","post-treatment","non-PD",15,"POST-R-015","GSM5575439","unclassified"
+"18R673_0005","primary tumor (colorectum)","post-treatment","non-PD",15,"POST-R-015","GSM5575439","CMS1"
 "18R674_0006","primary tumor (colorectum)","pre-treatment","unknown",3,"PAIR-R-003","GSM5575339","CMS4"
 "18R678_0010","primary tumor (colorectum)","pre-treatment","non-PD",1,"PRE-R-001","GSM5575342","CMS4"
 "18R683_0015","primary tumor (colorectum)","pre-treatment","non-PD",4,"PAIR-R-004","GSM5575343","unclassified"
