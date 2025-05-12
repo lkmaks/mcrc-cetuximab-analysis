@@ -7,6 +7,8 @@ def median_scaling(df, clip=None):
     =======================================================================================
     mad function from statsmodels.robust.scale - The Median Absolute Deviation along given axis of an array
     '''
+    if len(df) == 0:
+        return df
     median = 1.0 * df.median()
     madv = 1.0 * mad(df)
     df_out = df.sub(median).div(madv)
