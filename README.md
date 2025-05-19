@@ -93,7 +93,7 @@ This repository contains the code, data, and results of a study analyzing molecu
 
 3. Run analysis:
    - Open notebooks in `notebooks/`
-   - Follow step-by-step sections: preprocessing → CMS → survival → clustering
+   - Follow step-by-step sections: 0->1->2->3->4->5->Elza
 
 ---
 
