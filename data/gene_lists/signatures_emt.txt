@@ -1,1 +1,1 @@
-emt_bg_med, emt_pitts_med, emt_budinska_med, emt_joyce_med, emt_moor_med, emt_schell_med
+emt_bg_med, emt_pitts_med, emt_budinska_med, emt_moor_med, emt_schell_med
