@@ -1,9 +1,6 @@
 # mcrc-cetuximab-analysis
 
-Анализ молекулярных механизмов резистентности связанных с выживаемостью и ответом на терапию цетуксимабом среди пациентов страдающих от метастатического колоректального рака
-
-Цель работы
-Понять, какие молекулярные механизмы могут быть связаны с выживаемостью и ответом на терапию цетуксимабом у пациентов с метастатическим колоректальным раком (мКРР). Особое внимание будет уделено роли гена MET, активности сигнальных путей MAPK и PI3K, а также эпителиально-мезенхимальному переходу (EMT).
+This repository contains the code, data, and results of a study analyzing molecular mechanisms of resistance to anti-EGFR therapy (cetuximab) in metastatic colorectal cancer (mCRC). The focus is on identifying biomarkers and transcriptomic signatures associated with therapy response and survival.
 
 
 # SETUP INSTRUCTIONS
